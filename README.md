@@ -1,4 +1,4 @@
-# restful-api
+# Simple RestFul-API
 Restful API with Express Js and MongoDB
 
 npm start to running nodemon
